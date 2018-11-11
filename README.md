@@ -1,4 +1,5 @@
 # SinhalaSpeechCorpus
+The project contains 8460 speech clips for six intents in banking domain. This corpus has 10 hours worth speech data was gathered from 215 speakers of which 152 were male and 63 were female. The intents their inflections are mentioned below. 
 
 | Inflections  |     Intents     |
 |----------|:-------------:|
@@ -9,3 +10,5 @@
 | ගිණුම් අතර මුදල් හුවමාරු කිරීම |'තව ගිණුමකට මුදල් මාරු කරන්න ඕනි'<br>, 'තව ගිණුමකට මුදල් මාරු කරන්න පුලුවන්ද'<br>, 'වෙනත් ගිණුමකට මුදල් මාරු කිරීමක්'<br>, 'වෙනත් ගිණුමකට සල්ලි මාරු කිරීමක්'<br>, 'තව ගිණුමකට සල්ලි මාරු කරන්න ඕනි'<br>, 'තව ගිණුමකට සල්ලි මාරු කරන්න පුලුවන්ද'<br>, 'වෙනත් ගිණුමකට සල්ලි මාරු කිරීමක්' | 
 | ණයපත් ගෙවීම් |'හර පත් ගෙවීමක් කරන්න ඕනි'<br>, 'මට හර පත් ගෙවීමක් කරන්න ඕනි'<br>, 'ක්‍රෙඩිට් කාර්ඩ් එකට සල්ලි ගෙවන්න ඕනි'<br>, 'මට ක්‍රෙඩිට් කාර්ඩ් එකට සල්ලි ගෙවන්න ඕනි'| 
     
+Please contact one of the authors to get access to the data collection
+<sudeepa.14@cse.mrt.ac.lk> ,<ranula.14@cse.mrt.ac.lk>, <darshana.14@cse.mrt.ac.lk> <hasini.14@cse.mrt.ac.lk>
